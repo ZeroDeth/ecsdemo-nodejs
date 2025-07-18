@@ -7,14 +7,14 @@
 		"test": "mocha"
 	},
 	"dependencies": {
-		"express": "^4.16.2",
+		"express": "^4.20.0",
 		"express-healthcheck": "^0.1.0",
 		"internal-ip": "^3.0.1",
-		"ip": "^1.1.5",
-		"morgan": "^1.9.0"
+		"ip": "^2.0.1",
+		"morgan": "^1.10.1"
 	},
 	"devDependencies": {
-		"mocha": "^4.1.0",
+		"mocha": "^11.7.1",
 		"supertest": "^3.0.0"
 	}
 }
